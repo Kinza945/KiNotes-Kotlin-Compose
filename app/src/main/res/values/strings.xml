@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">KiNotes-Kotlin-Compose</string>
+    <string name="app_name">KiNotes</string>
+    <string name="note_title">Заголовок заметки</string>
+    <string name="note_body">Текст заметки</string>
+    <string name="create_note">Сохранить заметку</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="delete_note">Удалить заметку</string>
 </resources>
